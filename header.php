@@ -12,6 +12,12 @@
   <body <?php body_class(); ?>>
     <header>
       <div class="container">
+        <nav>
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#posts">Posts</a></li>
+          </ul>
+        </nav>
         <div class="row">
           <div class="col-lg-6 logo-container">
             <?php

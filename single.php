@@ -26,7 +26,6 @@
       }
    ?>
 
-  <h1>testing text</h1>
   </main>
 
 <?php get_footer(); ?>
